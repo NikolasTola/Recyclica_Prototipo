@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Recyclica_Prototipo
+build_property.RootNamespace = Recyclica_Prototipo
+build_property.ProjectDir = C:\Users\nikpl\OneDrive\Área de Trabalho\Faculdade\Eixo 2\Aprendizado\Recyclica_Prototipo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nikpl\OneDrive\Área de Trabalho\Faculdade\Eixo 2\Aprendizado\Recyclica_Prototipo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Clientes/Adicionar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQWRpY2lvbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Clientes/Confirmacao_Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ29uZmlybWFjYW9fQXBhZ2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Clientes/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Clientes/Relatorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcUmVsYXRvcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Gestao/Aprovacoes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGFvXEFwcm92YWNvZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Gestao/Confirmacao_Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGFvXENvbmZpcm1hY2FvX0FwYWdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Gestao/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGFvXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Gestao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGFvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Materiais/Adicionar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWlzXEFkaWNpb25hci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Materiais/Confirmacao_Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWlzXENvbmZpcm1hY2FvX0FwYWdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Materiais/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWlzXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Materiais/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Materiais/Relatorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWlzXFJlbGF0b3Jpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Materiais/Transformar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWlzXFRyYW5zZm9ybWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Produtos/Adicionar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQWRpY2lvbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Produtos/Confirmacao_Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ29uZmlybWFjYW9fQXBhZ2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Produtos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Produtos/Relatorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcUmVsYXRvcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikpl/OneDrive/Área de Trabalho/Faculdade/Eixo 2/Aprendizado/Recyclica_Prototipo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0kbvf9yqyi

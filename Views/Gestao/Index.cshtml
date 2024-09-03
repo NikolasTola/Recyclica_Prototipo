@@ -1,0 +1,99 @@
+﻿@{
+    ViewData["Title"] = "Gestão";
+}
+
+<div class="d-grid gap-2 d-md-flex justify-content-md-start">
+    <a class="btn btn-success" role="button" asp-controller="Gestao" asp-action="Aprovacoes">Aprovações</a>
+</div>
+
+<div class="text-center">
+
+    <h1 class="display-4">Usuários</h1>
+    <br>
+    <br>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Data-de-Cadastro</th>
+                <th scope="col">CPF/CNPJ</th>
+                <th scope="col">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>Brenda Estefany Pereira Drumond</td>
+                <td>01/08/2024</td>
+                <td>123.456.789-00</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Gestao" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Gestao" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Catiane de Souza Pereira</td>
+                <td>01/08/2024</td>
+                <td>123.456.789-00</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Gestao" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Gestao" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Grace Kelly Santos e Silva</td>
+                <td>01/08/2024</td>
+                <td>123.456.789-00</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Gestao" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Gestao" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td>Milton Roberto Garcia Ventura</td>
+                <td>01/08/2024</td>
+                <td>123.456.789-00</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Gestao" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Gestao" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>Nikolas Victor Mota</td>
+                <td>01/08/2024</td>
+                <td>123.456.789-00</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Gestao" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Gestao" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">6</th>
+                <td>Yasmim Emmeline Brandão Nunes</td>
+                <td>01/08/2024</td>
+                <td>123.456.789-00</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Gestao" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Gestao" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "Materiais";
+}
+
+
+<div class="text-center">
+
+    <h1 class="display-4">Materiais</h1>
+    <br>
+    <div>
+        <a class="btn btn-primary" role="button" asp-controller="Materiais" asp-action="Adicionar">Novo material +</a>
+        <a class="btn btn-primary" role="button" asp-controller="Materiais" asp-action="Relatorio">Relatório de materiais</a>
+    </div>
+    <br>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Data-Chegada</th>
+                <th scope="col">Data-Saída</th>
+                <th scope="col">Tipo</th>
+                <th scope="col">Quantidade</th>
+                <th scope="col">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>Caixa de papelão</td>
+                <td>02/02/2024</td>
+                <td>-</td>
+                <td>Papel</td>
+                <td>7</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Materiais" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Materiais" asp-action="Editar">Editar</a>
+                        <a class="btn btn-success" asp-controller="Materiais" asp-action="Transformar">Transformar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Garrafas de vidro</td>
+                <td>06/09/2022</td>
+                <td>-</td>
+                <td>Vidro</td>
+                <td>12</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Materiais" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Materiais" asp-action="Editar">Editar</a>
+                        <a class="btn btn-success" asp-controller="Materiais" asp-action="Transformar">Transformar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Chapas de metal </td>
+                <td>13/03/2023</td>
+                <td>-</td>
+                <td>Metal</td>
+                <td>4</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Materiais" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Materiais" asp-action="Editar">Editar</a>
+                        <a class="btn btn-success" asp-controller="Materiais" asp-action="Transformar">Transformar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td>Garrafas pláticas 2L</td>
+                <td>22/03/2023</td>
+                <td>-</td>
+                <td>Plástico</td>
+                <td>46</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Materiais" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Materiais" asp-action="Editar">Editar</a>
+                        <a class="btn btn-success" asp-controller="Materiais" asp-action="Transformar">Transformar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>Mesa de cabeceira</td>
+                <td>31/01/2024</td>
+                <td>-</td>
+                <td>Madeira</td>
+                <td>1</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Materiais" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Materiais" asp-action="Editar">Editar</a>
+                        <a class="btn btn-success" asp-controller="Materiais" asp-action="Transformar">Transformar</a>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

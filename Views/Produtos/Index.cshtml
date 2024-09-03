@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "Produtos";
+}
+
+<div class="text-center">
+
+    <h1 class="display-4">Produtos</h1>
+    <br>
+    <div>
+        <a class="btn btn-primary" role="button" asp-controller="Produtos" asp-action="Adicionar">Novo produto +</a>
+        <a class="btn btn-primary" role="button" asp-controller="Produtos" asp-action="Relatorio">Relatório de produtos</a>
+    </div>
+    <br>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Data-Chegada</th>
+                <th scope="col">Data-Saída</th>
+                <th scope="col">Tipo</th>
+                <th scope="col">Matéria-prima</th>
+                <th scope="col">Quantidade</th>
+                <th scope="col">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>Folhas de papel A4</td>
+                <td>22/08/2024</td>
+                <td>-</td>
+                <td>Papel</td>
+                <td>Cadernos usados</td>
+                <td>16</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Produtos" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Produtos" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Potes de vidro</td>
+                <td>14/12/2022</td>
+                <td>-</td>
+                <td>Vidro</td>
+                <td>Garrafas de vidro</td>
+                <td>3</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Produtos" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Produtos" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Porta lápis</td>
+                <td>31/03/2023</td>
+                <td>-</td>
+                <td>Metal</td>
+                <td>Peças de computador</td>
+                <td>2</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Produtos" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Produtos" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td>Vasos de planta</td>
+                <td>31/03/2023</td>
+                <td>-</td>
+                <td>Plástico</td>
+                <td>Garrafas pet 2L</td>
+                <td>9</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Produtos" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Produtos" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>Brinquedos de madeira</td>
+                <td>06/08/2024</td>
+                <td>-</td>
+                <td>Madeira</td>
+                <td>Móveis danificados</td>
+                <td>35</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a class="btn btn-danger" asp-controller="Produtos" asp-action="Confirmacao_Apagar">Apagar</a>
+                        <a class="btn btn-primary" asp-controller="Produtos" asp-action="Editar">Editar</a>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

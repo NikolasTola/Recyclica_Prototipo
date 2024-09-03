@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Adicionar material";
+}
+
+<div class="text-center">
+
+    <h1 class="display-4">Adicionar Material</h1>
+    <br>
+</div>
+
+<form>
+    <div class="mb-3">
+        <label class="form-label">Nome</label>
+        <input type="text" class="form-control" placeholder="Digite o nome do produto">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Tipo</label>
+        <select class="form-select" aria-label="Default select example">
+            <option selected disabled>Tipo do produto</option>
+            <option value="1">Madeira</option>
+            <option value="2">Metal</option>
+            <option value="3">Papel</option>
+            <option value="4">Plástico</option>
+            <option value="5">Vidro</option>
+        </select>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Quantidade</label>
+        <input type="number" class="form-control" placeholder="Digite a quantidade do produto">
+    </div>
+    <button type="submit" class="btn btn-primary">Adicionar</button>
+    <a type="submit" class="btn btn-secondary" asp-controller="Materiais" asp-action="Index">Cancelar</a>
+</form>
